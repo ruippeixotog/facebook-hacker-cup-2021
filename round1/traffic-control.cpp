@@ -10,13 +10,13 @@ int main() {
     } else {
       printf("Case #%d: Possible\n", tc);
       for(int i = 0; i < n; i++) {
-        printf("1");
+        int val =
+          i == 0 ? a - n - m + 2 :
+          i == n - 1 ? b - n - m + 2 :
+          1;
+        printf("%d", val);
         for(int j = 1; j < m; j++) {
-          int val =
-            i == 0 ? (j == m - 1 ? b - n - m + 2 : 1) :
-            i == n - 1 ? (j == m - 1 ? a - n - m + 2 : 1) :
-            1000;
-          printf(" %d", val);
+          printf(" 1");
         }
         printf("\n");
       }
