@@ -26,6 +26,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 * ✓ [A1: Consistency (Chapter 1)][qualA1] (`consistency-1`)
 * ✓ [A2: Consistency (Chapter 2)][qualA2] (`consistency-2`)
+* ✓ [B: Xs and Os][qualB] (`xs-and-os`)
 
 ### Round 1
 
@@ -37,6 +38,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 [1]: https://www.facebook.com/codingcompetitions/hacker-cup
 [qualA1]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A1
 [qualA2]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/A2
+[qualB]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/qualification-round/problems/B
 [round1A1]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/A1
 [round1A2]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/A2
 [round1A3]: https://www.facebook.com/codingcompetitions/hacker-cup/2021/round-1/problems/A3
